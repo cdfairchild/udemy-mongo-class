@@ -28,14 +28,6 @@ describe('Reading users out of the database', () => {
 //      });
 //  });
 	
-// it('find a user with a particular _id', (done) => {
-//		User.findOne({ _id: joe._id})
-//			.then((user) => {
-//				console.log(user.name);
-//				assert(user.name === 'Joe');
-//				done();
-//		});
-//	});
 		
 });
 
